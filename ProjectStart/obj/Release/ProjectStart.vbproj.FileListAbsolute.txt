@@ -1,0 +1,21 @@
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.exe.config
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.exe
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.pdb
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.xml
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.frmMain.resources
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.Resources.resources
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.vbproj.GenerateResource.Cache
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.exe
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.xml
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.pdb
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\bin\Release\ProjectStart.exe.config
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\obj\Release\ProjectStart.exe
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\obj\Release\ProjectStart.xml
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\obj\Release\ProjectStart.pdb
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\bin\Release\ProjectStart.exe
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\bin\Release\ProjectStart.pdb
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\bin\Release\ProjectStart.xml
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\obj\Release\ProjectStart.vbprojResolveAssemblyReference.cache
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\obj\Release\ProjectStart.frmMain.resources
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\obj\Release\ProjectStart.Resources.resources
+C:\Users\Stephanie\Desktop\CIS 122\LABS\lab G\ProjectStart\obj\Release\ProjectStart.vbproj.GenerateResource.Cache

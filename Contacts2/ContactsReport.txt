@@ -1,0 +1,50 @@
+Name: Michael Passalacqua
+
+Address:
+167 Harmon St.
+Brooklyn, NY 11221
+
+Phone: 503-419-3869
+Email: passthegas@gmail.com
+----------------------------------------------------------------------------------------
+
+Name: Mickey Mouse
+
+Address:
+1 Main St.
+Disneyland, CA 94303
+
+Phone: 630-486-8476
+Email: minniesman@disney.com
+----------------------------------------------------------------------------------------
+
+Name: Minnie Mouse
+
+Address:
+1 Main St.
+Disneyland, CA 94303
+
+Phone: 630-486-6748
+Email: mickeyssqueeze@disney.com
+----------------------------------------------------------------------------------------
+
+Name: Joe Blow
+
+Address:
+303 Pine St.
+Portland, OR 97220
+
+Phone: 503-869-8602
+Email: joeblow@hotmail.com
+----------------------------------------------------------------------------------------
+
+Name: Barack Obama
+
+Address:
+1000 Pennsylavania Ave.
+Washington, DC 15939
+
+Phone: 987-654-3210
+Email: barry@whitehouse.gov
+----------------------------------------------------------------------------------------
+
